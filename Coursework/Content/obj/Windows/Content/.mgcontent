@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/1x1.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/abstract-textured-polygonal-background-vector-260nw-375261961.jpg</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/background1.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/background2.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/BarBack.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/baseShotAmmo.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Blast.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Boss.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/BossHurt.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/EBeam.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Enemy0.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Enemy1.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/EnemyHurt.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/EnemyShot.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/EShot.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/eShotAmmo.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/EShotEpicenter.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Explosion.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Font.spritefont</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/MainMenuFont.spritefont</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/MenuBackground.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/MenuButton.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/SeekerMine.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Ship.png</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/BaseShotLaunch.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/EnemyShoot.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/EShotLaunch.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-01.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-02.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-03.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-04.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-05.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-06.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-07.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/Sound/explosion-08.wav</File>
+    <File>C:/Users/Steve/source/repos/Coursework/Coursework/Content/UI.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>test</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
